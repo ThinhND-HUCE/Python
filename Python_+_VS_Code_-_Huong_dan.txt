@@ -1,0 +1,12 @@
+(B0)   Gỡ Python và Visual Studio Code (nếu có)
+(B1)   Vào trang
+	https://github.com/ThinhND-HUCE/Python
+       để tải file Python_+_VS_Code.rar
+(B2)   Giải nén vào ổ C (bắt buộc)
+(B3)   Chuyển hai shortcut Python và Visual Studio Code trong ổ C lên Desktop 
+(B4)   Gọi một trong hai chương trình bằng shortcut tương ứng.
+Xong!
+==========
+Người tạo: Nguyễn Đức Thịnh
+Cơ quan: Bộ môn Toán ứng dụng, Đại học Xây dựng Hà Nội
+Email: thinhnd@hhuce.edu.vn
